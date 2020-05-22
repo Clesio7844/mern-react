@@ -19,7 +19,7 @@ const DUMMY_PLACES = [
   },
   {
     id: 'p2',
-    title: 'CodeNation Building',
+    title: 'Emp. CodeNation Building',
     description: 'One of the most famous sky scrapers in the world!',
     imageUrl:
       'https://images.unsplash.com/photo-1495202337139-e865ed70fcd4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2855&q=80',
